@@ -6,13 +6,13 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 
 # Installation
----
+
 Öncelikle projeyi clonelayın.
 
         https://github.com/Tuzbay/kodluyoruzilkrepo.git
 
 # Usage
----
+
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız. 
 
 Linux için : 
@@ -21,9 +21,9 @@ Linux için :
         code . 
 
 # Contributing
----
+
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen öne neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # Installation
---- 
+
 MIT
